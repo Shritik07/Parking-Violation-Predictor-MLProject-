@@ -12,5 +12,7 @@ Build the machine learning model. Choose the right algorithms to predict violati
 
 The model can be deployed using Docker containers for scalability.
 
+Dataset: New York parking violations (2017)
+
 Approach:
 -Extraction of data, Feature Engineering, Data Augmentation (if required), application of machine learning model, validation, deployment on container.
